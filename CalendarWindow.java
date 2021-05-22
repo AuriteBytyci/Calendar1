@@ -28,7 +28,6 @@ import java.util.*;
            g.fillRect(0,0,450,435);
            g.setColor(new Color(0,0,50));
            g.fillRect(35,80,360,35*8+10);
-           g.fillRect(35,80,360,35*8+10);
            g.setColor(Color.white);
            g.fillRect(40,85,350,35*8);
            paintCalendar(40,120,7,7,50,35,g);
