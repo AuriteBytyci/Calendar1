@@ -119,7 +119,7 @@ import java.util.*;
         if (monthinput<3|| monthinput>8)
               { p.drawString(months[monthinput],145,113); }
         else
-              { p.drawString(months[monthinput],135,113); }
+              { p.drawString(months[monthinput],160,113); }
          
                          
         }  
