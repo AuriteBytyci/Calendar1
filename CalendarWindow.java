@@ -115,10 +115,10 @@ import java.util.*;
           
            
            
-        if (monthinput<3|| monthinput>8)
+        if (monthinput<3|| monthinput>6)
               { p.drawString(months[monthinput],145,113); }
         else
-              { p.drawString(months[monthinput],160,113); }
+              { p.drawString(months[monthinput],170,113); }
          
                          
         }  
